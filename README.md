@@ -1,16 +1,93 @@
-## Hi there 👋
+<h1 align="center">Ashish</h1>
 
-<!--
-**AshishAanand/AshishAanand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Student engineer focused on Full-Stack dev, ML/AI Engineering
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <em>Learning by building systems, not demos</em>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧭 Current Work
+ 
+- Studying SQL deeply: schema design, constraints, indexing, and performance  
+- Strengthening mathematical foundations required for machine learning  
+- Developing structured, end-to-end projects with real-world constraints  
+
+---
+
+## 📘 Currently Learning
+
+- Linear algebra and calculus for machine learning
+- Backend architecture patterns and API design
+- Full-stack development with a focus on complete project ownership  
+
+---
+
+## 🛠️ Stack
+
+**Languages**  
+Python · C++ · JavaScript  
+
+**Frontend**  
+React  
+
+**Backend & Databases**  
+ExpressJS · NestJS · PostgreSQL  
+
+**Data & ML**  
+NumPy · Pandas · SQL · Scikit-learn  
+
+**Tools**  
+Git · GitHub  
+
+---
+
+## 🎯 Areas of Focus
+
+- Backend development  
+- System design and scalability  
+- Machine learning foundations  
+- Applied mathematics for computing  
+
+---
+
+## 🤝 Looking for Help With
+
+- ML project architecture and structuring  
+- Best practices for production-grade backend systems  
+
+---
+
+## 💬 Ask Me About
+
+- Getting started with backend development  
+- Structuring learning projects effectively  
+
+---
+
+## 🧠 Approach
+
+- Learn through building  
+- Prioritize fundamentals before abstractions  
+- Treat learning projects as real systems, not prototypes  
+
+---
+
+## 🔍 Interests
+
+Backend internals · ML/AI systems · system design · scalability  
+
+---
+
+## 📫 How to Reach Me
+
+GitHub (issues / discussions) · LinkedIn · Email  
+
+---
+
+## ⚡ Fun Fact
+
+I treat every learning project like production code — error handling, documentation, and structure included.
