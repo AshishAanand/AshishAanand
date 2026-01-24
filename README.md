@@ -32,7 +32,7 @@
 Python · C++ · JavaScript  
 
 **Frontend**  
-React  
+React · NextJS
 
 **Backend & Databases**  
 ExpressJS · NestJS · PostgreSQL  
