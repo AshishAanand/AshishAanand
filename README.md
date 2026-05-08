@@ -1,4 +1,4 @@
-<h1 align="center">Ashish</h1>
+<h1 align="center">Aashish Aanand</h1>
 
 <p align="center">
   Student engineer focused on Full-Stack Development, Backend Engineering, and AI/ML
