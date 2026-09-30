@@ -24,11 +24,11 @@ Currently learning Backend Engineering and Full-Stack Development with MERN & PE
 <h2 align="center">🌐 Socials</h2>
 
 <p align="center">
-<a href="https://discord.gg/CZWGAmxfC">
+<a href="https://discord.gg/H7mVP3BBWQ">
 <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white">
 </a>
 
-<a href="https://linkedin.com/in/aashish-aanand">
+<a href="https://www.linkedin.com/in/aashish-a-49b958311/">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
 </a>
 
